@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="texto_grados">29°</string>
+    <string name="texto_ciudad">Ciudad de Asunción</string>
+    <string name="texto_estatus">Soleado</string>
+
+    <string name="texto_bienvenida">
+        Bienvenido a mi app del clima, para ver el clima de la ciudad seleccionada
+    </string>
+    <string name="texto_boton_asuncion">Clima de la ciudad de Asunción</string>
+    <string name="texto_boton_cde">Clima de la ciudad de Ciudad del Este</string>
+</resources>
